@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+
+header h1 {
+  display: flex;
+  justify-content: center;
+}
+
+header p {
+  display: flex;
+  justify-content: center;
+}
+
+section div {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(183, 223, 223);
+  margin: 20px;
+}
+
+footer {
+  background-color: bisque;
+  /* width: 100%; */
+  text-align: center;
+  margin: 0 auto;
+}
