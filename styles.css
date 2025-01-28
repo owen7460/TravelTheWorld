@@ -16,12 +16,15 @@ section div {
   display: flex;
   justify-content: center;
   background-color: rgb(183, 223, 223);
-  margin: 20px;
+  margin: 20px 0;
 }
 
 footer {
   background-color: bisque;
   /* width: 100%; */
+  /* text-align: center;
+  margin: 0 auto; */
+  display: flex;
+  justify-content: center;
   text-align: center;
-  margin: 0 auto;
 }
