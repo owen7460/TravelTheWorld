@@ -1,5 +1,6 @@
 * {
   box-sizing: border-box;
+  margin: 0;
 }
 
 header h1 {
@@ -17,6 +18,18 @@ section div {
   justify-content: center;
   background-color: rgb(183, 223, 223);
   margin: 20px 0;
+  gap: 1rem;
+}
+
+.eachSection img {
+  width: 600px;
+  object-fit: cover;
+  border-radius: 1.5%;
+  margin: 15px 0;
+}
+
+.eachSection span {
+  margin: 15px 0;
 }
 
 footer {
