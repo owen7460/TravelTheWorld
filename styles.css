@@ -35,14 +35,14 @@ header p {
   padding: 15px;
 }
 
-#lastResort {
+/* #lastResort {
   display: flex;
   width: 100%;
   background-color: rgb(183, 223, 223);
   margin: 20px 0;
   gap: 1rem;
   padding: 15px;
-}
+} */
 
 h2 {
   color: rgb(66, 66, 66);
@@ -70,10 +70,10 @@ img {
   color: rgb(67, 67, 67);
 }
 
-#lastResort p {
+/* #lastResort p {
   font-size: 20px;
   color: rgb(67, 67, 67);
-}
+} */
 
 footer {
   background-color: rgb(224, 214, 201);
